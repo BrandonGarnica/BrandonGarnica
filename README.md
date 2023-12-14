@@ -7,19 +7,19 @@
     - Lithography / Semiconductor Dev. 🔦
     
     
-- 🧠 Studying:
-    - Electrical Engineering @ BYU
+- 🧠 Education:
+    - Bachelors in Electrical Engineering from BYU
     
     
 - 🕹 Hobbies:
-    - Collegeate Running 🏃🏽‍♂️
+    - Long Distance Running 🏃🏽‍♂️
     - Video Games 👾
     - 3D Printing 🥞
     - Rock Climbing / Outdoors 🏔 
 
 
 - 📫 Reach Me:
-    - 📨 BrandonGarnica@byu.edu
+    - 📨 Garnicadesignelectronics@gmail.com
     - 📸 @FastBrando
 
 <!---
